@@ -1,0 +1,2 @@
+# Ignore whole JetBrains related directories
+src/.idea
