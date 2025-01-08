@@ -1,2 +1,4 @@
+__pycache__/
+
 # Ignore whole JetBrains related directories
-src/.idea
+.idea

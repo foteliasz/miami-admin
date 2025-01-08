@@ -1,2 +1,3 @@
 def hello_miami():
-    print("Hello from miami!")
+    return "Hello from miami!"
+
