@@ -1,1 +1,1 @@
-from example import hello_miami
+from .example import hello_miami
